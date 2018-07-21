@@ -4,5 +4,6 @@ This repository contains all the regression models that I have learnt so far. I 
 ## Content:
 <ul>
   <li><a href="https://github.com/TheRealMentor/regression-models/tree/master/Simple%20Linear%20Regression">Simple Linear Regression</a></li>
+  <li><a href="https://github.com/TheRealMentor/regression-models/tree/master/Multiple%20Linear%20Regression">Multiple Linear Regression</a></li>
 </ul>
 
