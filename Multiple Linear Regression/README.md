@@ -1,0 +1,2 @@
+# Multiple Linear Regression
+In this type of regression, we are given with a set of data which contains many independent variables and one dependent variable. We have to fit the data in the model such that we can predict if we are given another set of data. Here, we have the dataset of 50 Startups, each having different amounts contributed in the different departments. Our goal is to find the link between these departments and the profit of the company. That is, we want to know investment in which department will lead to increase in the profit.
