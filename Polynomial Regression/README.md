@@ -3,10 +3,10 @@ This type of regression is somewhat similar to the multiple regression. Only dif
 
 ### Scatter plot showing the data
 <p align="center">
-  
+  <img src="https://raw.githubusercontent.com/TheRealMentor/regression-models/master/Polynomial%20Regression/data.png" alt="Truth or Bluff (Data)">
 </p>
 
 ### Plot showing the model fitting to the data
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheRealMentor/regression-models/master/Simple%20Linear%20Regression/training_set.png" alt="Truth or Bluff (Polynomial Regression)">
+  <img src="https://raw.githubusercontent.com/TheRealMentor/regression-models/master/Polynomial%20Regression/graph.png" alt="Truth or Bluff (Polynomial Regression)">
 </p>
